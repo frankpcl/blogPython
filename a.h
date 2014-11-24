@@ -1,6 +1,2 @@
 aaaa
-<<<<<<< HEAD
-ccc
-=======
-bbbba
->>>>>>> master
+cccddddd
